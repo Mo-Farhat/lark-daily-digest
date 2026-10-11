@@ -1,0 +1,5 @@
+[
+ {"id":"T-001","title":"Ship onboarding flow","status":"Done","comments":["Merged and deployed"],"url":"","created_day":"2026-09-01"},
+ {"id":"T-002","title":"Pick storage provider","status":"For Review","comments":["@lead decision needed: S3 vs R2"],"url":"","created_day":"2026-09-02"},
+ {"id":"T-003","title":"Migrate auth","status":"Blocked","comments":["@lead pending: waiting on vendor"],"url":"","created_day":"2026-09-03"}
+]
